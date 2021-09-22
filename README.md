@@ -9,6 +9,7 @@
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarsh786-tech&theme=radical)
+[![Mihir's github activity graph](https://activity-graph.herokuapp.com/graph?username=adarsh786-tech&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **adarsh786-tech/adarsh786-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
